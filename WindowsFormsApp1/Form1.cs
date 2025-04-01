@@ -19,5 +19,6 @@ namespace WindowsFormsApp1
         int x = 0;
         int y = 0;
         int sum = 0;
+        string hotel_name = "BestHotel";
     }
 }
