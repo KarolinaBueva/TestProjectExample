@@ -16,5 +16,8 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+        int x = 0;
+        int y = 0;
+        int sum = 0;
     }
 }
